@@ -6,7 +6,7 @@ import rx.subjects.SerializedSubject;
 import rx.subjects.Subject;
 
 /**
- * Created by Eduardo on 08/02/2016.
+ * Created by Bretrand on 08/02/2016.
  * NOT IN USE BUT USEFUL!!!
  * * courtesy: https://gist.github.com/benjchristensen/04eef9ca0851f3a5d7bf
  */

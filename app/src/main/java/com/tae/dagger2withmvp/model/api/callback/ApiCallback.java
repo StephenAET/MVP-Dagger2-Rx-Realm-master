@@ -1,8 +1,8 @@
 package com.tae.dagger2withmvp.model.api.callback;
 
 /**
- * Created by Eduardo on 04/02/2016.
- * Callback used to comunicate Presenter and Interactor with the data needed in Presenter
+ * Created by Bretrand on 04/02/2016.
+ * Callback used to communicate Presenter and Interactor with the data needed in Presenter
  *
  */
 public interface ApiCallback {
