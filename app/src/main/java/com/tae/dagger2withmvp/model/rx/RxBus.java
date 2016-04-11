@@ -6,9 +6,8 @@ import rx.subjects.SerializedSubject;
 import rx.subjects.Subject;
 
 /**
- * Created by Bretrand on 08/02/2016.
+ * Created by Karma on 08/02/2016.
  * NOT IN USE BUT USEFUL!!!
- * * courtesy: https://gist.github.com/benjchristensen/04eef9ca0851f3a5d7bf
  */
 public class RxBus {
     //private final PublishSubject<Object> _bus = PublishSubject.create();

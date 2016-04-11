@@ -5,7 +5,7 @@ import retrofit.Retrofit;
 import retrofit.RxJavaCallAdapterFactory;
 
 /**
- * Created by Bretrand on 04/02/2016.
+ * Created by Karma on 04/02/2016.
  * This class create a singleton with an instance of the Retrofit object
  *
  * TODO is this need it?

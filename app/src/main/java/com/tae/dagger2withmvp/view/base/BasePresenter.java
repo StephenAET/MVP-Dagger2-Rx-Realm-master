@@ -4,7 +4,7 @@ import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 
 /**
- * Created by Bretrand on 04/02/2016.
+ * Created by Karma on 04/02/2016.
  */
 
 public abstract class BasePresenter {

@@ -7,7 +7,7 @@ import retrofit.http.Query;
 import rx.Observable;
 
 /**
- * Created by Bretrand on 04/02/2016.
+ * Created by Karma on 04/02/2016.
  * Connect to the RestApi
  */
 public interface ItunesApiService {

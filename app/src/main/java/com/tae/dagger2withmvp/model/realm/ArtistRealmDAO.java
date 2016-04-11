@@ -9,7 +9,7 @@ import io.realm.RealmAsyncTask;
 import io.realm.RealmResults;
 
 /**
- * Created by Bretrand on 09/02/2016.
+ * Created by Karma on 09/02/2016.
  */
 public class ArtistRealmDAO {
 

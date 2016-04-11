@@ -12,7 +12,7 @@ import com.tae.dagger2withmvp.dagger2.module.NetworkModule;
 import com.tae.dagger2withmvp.dagger2.module.RealmModule;
 
 /**
- * Created by Bretrand on 04/02/2016.
+ * Created by Karma on 04/02/2016.
  */
 public class MyApp extends Application {
 

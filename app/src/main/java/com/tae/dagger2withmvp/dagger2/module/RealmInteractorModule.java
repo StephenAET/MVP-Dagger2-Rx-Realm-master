@@ -9,7 +9,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by Bretrand on 09/02/2016.
+ * Created by Karma on 09/02/2016.
  */
 @Module
 public class RealmInteractorModule {

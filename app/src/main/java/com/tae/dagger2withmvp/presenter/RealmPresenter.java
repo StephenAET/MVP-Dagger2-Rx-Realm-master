@@ -8,7 +8,7 @@ import com.tae.dagger2withmvp.model.itunesmodel.Result;
 import java.util.List;
 
 /**
- * Created by Bretrand on 09/02/2016.
+ * Created by Karma on 09/02/2016.
  *
  */
 public class RealmPresenter {

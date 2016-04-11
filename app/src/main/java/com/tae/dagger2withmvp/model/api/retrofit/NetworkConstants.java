@@ -1,7 +1,7 @@
 package com.tae.dagger2withmvp.model.api.retrofit;
 
 /**
- * Created by Bretrand on 04/02/2016.
+ * Created by Karma on 04/02/2016.
  */
 public class NetworkConstants {
     public static final String BASE_URL = "https://itunes.apple.com";                                   //change limit here
