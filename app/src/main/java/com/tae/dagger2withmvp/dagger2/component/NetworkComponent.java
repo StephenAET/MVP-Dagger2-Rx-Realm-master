@@ -7,7 +7,6 @@ import com.tae.dagger2withmvp.interactor.ArtistInteractor;
 import dagger.Component;
 
 /**
- * Created by Karma on 05/02/2016.
  * NetworkComponent requires:
  * -NetworkModule
  * -InteractorModule

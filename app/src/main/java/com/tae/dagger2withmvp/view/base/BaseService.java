@@ -6,7 +6,6 @@ import com.tae.dagger2withmvp.MyApp;
 import com.tae.dagger2withmvp.dagger2.component.NetworkComponent;
 
 /**
- * Created by Karma on 08/02/2016.
  */
 public abstract class BaseService extends IntentService {
 

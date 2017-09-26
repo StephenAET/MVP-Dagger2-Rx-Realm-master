@@ -11,7 +11,6 @@ import io.realm.Realm;
 import io.realm.RealmConfiguration;
 
 /**
- * Created by Karma on 09/02/2016.
  */
 
 @Module

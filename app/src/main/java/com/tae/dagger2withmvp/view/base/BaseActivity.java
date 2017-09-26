@@ -13,7 +13,6 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 
 /**
- * Created by Karma on 04/02/2016.
  *
  * Base class for all the activities.
  * Provides methods to return ItunesComponent, xml layout,

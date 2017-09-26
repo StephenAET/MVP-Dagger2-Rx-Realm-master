@@ -12,7 +12,6 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by Karma on 04/02/2016.
  * The Interactor query the data to servers, data bases, etc and send the result/response.
  * This guy is hidden.
  */

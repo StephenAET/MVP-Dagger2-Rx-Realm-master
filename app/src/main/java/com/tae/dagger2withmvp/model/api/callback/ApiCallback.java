@@ -1,7 +1,6 @@
 package com.tae.dagger2withmvp.model.api.callback;
 
 /**
- * Created by Karma on 04/02/2016.
  * Callback used to communicate Presenter and Interactor with the data needed in Presenter
  *
  */

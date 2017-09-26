@@ -9,7 +9,6 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by Karma on 07/02/2016.
  * This module returns the interactor to do the job for the Presenter
  *
  * At the moment no constructor with parameters needed

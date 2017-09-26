@@ -5,7 +5,6 @@ import com.tae.dagger2withmvp.model.itunesmodel.Result;
 import java.util.List;
 
 /**
- * Created by Karma on 04/02/2016.
  *
  * Callback to communicate the results to ArtistSearchPresenter
  */

@@ -11,7 +11,6 @@ import com.tae.dagger2withmvp.view.viewmodel.ArtistViewModel;
 import java.util.List;
 
 /**
- * Created by Karma on 04/02/2016.
  *
  * The ArtistPresenter receive an input from the view, then will use an Interactor to get the data
  * and finally will update the UI

@@ -36,7 +36,6 @@ import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;
 
 /**
- * Created by Karma on 08/02/2016.
  */
 public class ArtistListFragment extends BaseFragment implements ArtistViewModel{
 
@@ -135,7 +134,7 @@ public class ArtistListFragment extends BaseFragment implements ArtistViewModel{
 
 
     /**
-     * This subscription tracks what happend with the EditText Event (the observable)
+     * This subscription tracks what happened with the EditText Event (the observable)
      * with a delay and set the Observer with TextViewTextChangeEvent (compile bindingrxjava)
      */
     private void subscribeToEditText() {

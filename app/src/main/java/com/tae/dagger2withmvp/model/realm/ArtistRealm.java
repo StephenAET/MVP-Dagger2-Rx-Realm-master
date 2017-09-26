@@ -4,7 +4,6 @@ import io.realm.RealmObject;
 import io.realm.annotations.PrimaryKey;
 
 /**
- * Created by Karma on 09/02/2016.
  */
 public class ArtistRealm extends RealmObject {
 

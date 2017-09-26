@@ -7,10 +7,7 @@ import com.tae.dagger2withmvp.model.itunesmodel.Result;
 
 import java.util.List;
 
-/**
- * Created by Karma on 09/02/2016.
- *
- */
+
 public class RealmPresenter {
 
     private static final String TAG = RealmPresenter.class.getSimpleName();

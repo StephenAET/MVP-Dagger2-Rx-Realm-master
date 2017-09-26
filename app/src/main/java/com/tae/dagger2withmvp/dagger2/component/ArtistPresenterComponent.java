@@ -13,7 +13,6 @@ import com.tae.dagger2withmvp.view.fragment.ArtistListFragment;
 import dagger.Component;
 
 /**
- * Created by Karma on 07/02/2016.
  * Component that will give access to the Presenter
  * We define the scope of this component for the Activity
  * Here we define where are we going to inject the Presenter

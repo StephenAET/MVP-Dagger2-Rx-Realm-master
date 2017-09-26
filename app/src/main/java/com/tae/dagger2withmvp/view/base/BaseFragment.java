@@ -15,7 +15,6 @@ import com.tae.dagger2withmvp.dagger2.component.RealmComponent;
 import butterknife.ButterKnife;
 
 /**
- * Created by Karma on 04/02/2016.
  */
 public abstract class BaseFragment extends Fragment {
 

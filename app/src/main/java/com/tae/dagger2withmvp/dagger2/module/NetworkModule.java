@@ -17,7 +17,6 @@ import retrofit.Retrofit;
 import retrofit.RxJavaCallAdapterFactory;
 
 /**
- * Created by Karma on 05/02/2016.
  *
  * This module will provide the instances needed to create the dependencies for the NetworkComponent
  */

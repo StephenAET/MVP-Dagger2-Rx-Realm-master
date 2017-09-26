@@ -8,7 +8,6 @@ import com.tae.dagger2withmvp.interactor.RealmInteractor;
 import dagger.Component;
 
 /**
- * Created by Karma on 09/02/2016.
  */
 
 @Component(

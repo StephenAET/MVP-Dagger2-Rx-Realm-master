@@ -6,7 +6,6 @@ import com.tae.dagger2withmvp.view.activity.MainActivity;
 import java.util.List;
 
 /**
- * Created by Karma on 04/02/2016.
  * This is the view model, it defines the behaview of the View in the MVP
  * This interface operations must be used to update the UI in any activity
  * like {@link MainActivity}
